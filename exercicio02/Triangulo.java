@@ -5,6 +5,10 @@ public class Triangulo implements FiguraGeometrica {
     
     double base, altura;
 
+    public Triangulo(int i, int j) {
+        
+    }
+
     public void triangulo(double base, double altura){
         this.base = base;
         this.altura = altura;
